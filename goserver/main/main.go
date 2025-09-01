@@ -1,7 +1,7 @@
 package main
 
 import (
-	godbusserver "esloth/awsS3"
+	godbusserver "esloth/goserver"
 	"log"
 )
 
